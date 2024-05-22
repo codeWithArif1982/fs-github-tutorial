@@ -1,0 +1,172 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "1SSjt5mJyzxSWLmEKxFgN",
+      "type": "rectangle",
+      "x": 77.63339233398438,
+      "y": -64.08248138427734,
+      "width": 76.5234375,
+      "height": 70.71614837646484,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1743264829,
+      "version": 30,
+      "versionNonce": 1511771933,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1716411474994,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "y_Ni-ssUwX4hs4Xxgj81j",
+      "type": "diamond",
+      "x": 13.609955284330518,
+      "y": 85.03861404789816,
+      "width": 117.59765243530273,
+      "height": 115.80032348632812,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 739544179,
+      "version": 398,
+      "versionNonce": 738906515,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1716411493284,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_QVD5Q6obVKjpS_JpU3PR",
+      "type": "ellipse",
+      "x": 107.95240447256293,
+      "y": -38.58118270503152,
+      "width": 33.79638671875,
+      "height": 30.311859130859375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1022253437,
+      "version": 71,
+      "versionNonce": 1398796221,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1716411503419,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "jEutnfQh5p3RvhLpU4eBk",
+      "type": "line",
+      "x": 113.12818572256293,
+      "y": -54.062948452101836,
+      "width": 24.21630859375,
+      "height": 8.463096618652344,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 343370803,
+      "version": 12,
+      "versionNonce": 215276605,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1716411509500,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -24.21630859375,
+          8.463096618652344
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "IjmL8NK7vWVf9uIba0QH_",
+      "type": "ellipse",
+      "x": 46.15552947256294,
+      "y": 134.71958328617941,
+      "width": 46.11633300781249,
+      "height": 41.277374267578125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1819324541,
+      "version": 80,
+      "versionNonce": 982022685,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1716411521001,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
